@@ -1,0 +1,4 @@
+W folderze StickerMaker masz "StickerMaker.exe", "PDFNetC.dll", "Sticker.jpg" - trzeba je skopiować do folderu w którym masz folder "PDF"
+Nie jest to folder z PDF'ami!
+
+Odpal .exe - GOTOWE!
