@@ -5,11 +5,11 @@ Pasting sticker into .pdf energetic certificates
 ```
 sudo apt update
 sudo apt install g++ cmake
+cp PDF/libPDFNetC.so /usr/lib/x86_64-linux-gnu/
 ```
 
 **Build project**:
 ```
-cp PDF/libPDFNetC.so /usr/lib/x86_64-linux-gnu/
 mkdir build
 cmake -S . -B build/
 cmake --build build -t StickerMaker
